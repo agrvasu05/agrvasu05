@@ -1,7 +1,7 @@
 # Hi, I'm Vasu 👋
 
 ### Full Stack Developer | AI/ML Engineer | JIIT Noida '27
-
+![Snake animation](https://github.com/agrvasu05/agrvasu05/blob/output/github-contribution-grid-snake.svg)
 ---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
