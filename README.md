@@ -3,7 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Full+Stack+Developer;Agentic+AI+Engineer;JIIT+Noida+%2727;Building+things+that+think)](https://git.io/typing-svg)
 ---
+
 ### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -13,6 +15,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=robot&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
