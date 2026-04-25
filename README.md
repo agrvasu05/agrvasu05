@@ -1,7 +1,7 @@
 # Hi, I'm Vasu 👋
 
 ### Full Stack Developer · Agentic AI · JIIT Noida '27
-![Snake animation](https://github.com/agrvasu05/agrvasu05/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+things+that+think)](https://git.io/typing-svg)
 ---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -20,5 +20,3 @@
 
 ---
 
-### 📊 GitHub Stats
-![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrvasu05&show_icons=true&theme=tokyonight)
