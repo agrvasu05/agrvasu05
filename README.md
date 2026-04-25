@@ -1,7 +1,7 @@
 # Hi, I'm Vasu 👋
 
-### Full Stack Developer · Agentic AI · JIIT Noida '27
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+things+that+think)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Full+Stack+Developer;Agentic+AI+Engineer;JIIT+Noida+%2727;Building+things+that+think)](https://git.io/typing-svg)
 ---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
